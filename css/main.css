@@ -57,10 +57,11 @@ body {
 }
 
 .nav a:focus {
-  outline: 3px solid #fff
+  outline: 3px solid #fff;
 }
 
 .banner {
+  background-color: brown;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
@@ -75,7 +76,7 @@ body {
 }
 
 .banner a:focus {
-  outline: 3px solid #fff
+  outline: 3px solid #fff;
 }
 
 .banner div {
